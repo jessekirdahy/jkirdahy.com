@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mike Conrad
+title: Jesse Kirdahy
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Taking notes in public since 2020.
-repository: "siphonophora/mjconrad.com"  
+  Hurr durr
+repository: "jessekirdahy/jkirdahy.com"  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mjconrad.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jkirdahy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  siphonophora
-teaser: /images/default-teaser-500x300.png
+github_username:  
+teaser: 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Uses gem "jekyll-remote-theme"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -68,10 +68,10 @@ kramdown:
 
 # Site Author
 author:
-  name             : "Mike Conrad"
-  avatar           : "/images/profile_pic.png"
-  bio              : "I’m a C# and TSQL developer who works in medical laboratory informatics. I have a particular interest in unit testing, software safety, developer productivity and code generation."
-  location         : "Boston, MA"
+  name             : "Jesse Kirdahy"
+  avatar           : 
+  bio              : 
+  location         : 
   email            :
   uri              :
   bitbucket        :
@@ -80,7 +80,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siphonophora"
+  github           : "jessekirdahy"
   google_plus      :
   keybase          :
   instagram        :
@@ -124,8 +124,9 @@ defaults:
 include:
   - _pages      
 
+# Eventually enter my Google Analytics info
 analytics:
-  provider: "google-gtag"
+  provider: 
   google:
-    tracking_id: "UA-177872325-2"
+    tracking_id: 
     anonymize_ip: true # false is default

@@ -1,9 +1,5 @@
 main:
-  - title: "Blog"
+  - title: "Home"
     url: /
-  - title: "Sql Data Compare"
-    url: https://sqldatacompare.mjconrad.com/
-  - title: "Open Source"
-    url: /opensource/
   - title: "About"
     url: /about/
