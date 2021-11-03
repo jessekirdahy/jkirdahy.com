@@ -9,6 +9,7 @@ I am an educational technology specialist in a Boston area public school distric
 - 3D design and printing
 - Coding for kids
 - Game development
+- DIY electronic hardware
 - Web design
-- Ed tech administration
 - Fab lab / maker space management
+- Ed tech administration
