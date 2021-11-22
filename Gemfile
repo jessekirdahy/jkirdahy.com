@@ -14,7 +14,7 @@ gem "minima", "~> 2.5"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 221"
+  gem "github-pages", "~> 222"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-include-cache"
   gem "jekyll-paginate"
