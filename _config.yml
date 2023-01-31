@@ -126,7 +126,7 @@ include:
 
 # Eventually enter my Google Analytics info
 analytics:
-  provider: 
+  provider: "google-gtag"
   google:
-    tracking_id: 
+    tracking_id: G-QFWXFPY97N
     anonymize_ip: true # false is default

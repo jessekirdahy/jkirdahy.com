@@ -22,6 +22,4 @@ With any lesson where I'm trying or creating a new product for the first time, I
 
 
 ## Next Steps for Students After Sculpting?
-I've found fourth grade to be about the right age to introduce students to more demanding and more capable design tools like Tinkercad if they have already had some experience with 3D sculpting. 
-
-Test
+I've found fourth grade to be about the right age to introduce students to more demanding and more capable design tools like Tinkercad if they have already had some experience with 3D sculpting.
