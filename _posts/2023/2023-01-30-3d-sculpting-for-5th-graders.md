@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "3D Sculpting for 5th Graders"
+title: "Sculptfab: 3D Sculpting for 5th Graders"
 published: true
 ---
 
