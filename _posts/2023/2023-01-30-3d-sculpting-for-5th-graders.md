@@ -5,6 +5,8 @@ title: "3D Sculpting for 5th Graders"
 
 3D sculpting tools like the free [Sculptfab](https://labs.sketchfab.com/sculptfab/) or [SculptGL](https://stephaneginier.com/sculptgl/) make it quick and easy for students to see desirable results in their designs. Unlike other simple 3D design tools like Tinkercad, which uses parametric geometric primitives, sculpting tools offer intuitive controls that respond to direct clicks or finger taps, showing results immediately. It's for this reason that I tend to start students with Sculptfab when they're beginning to learn 3D design.
 
+![An example of calaveras](/images/posts/2023/calaveras_example.jpg)
+
 ## Sculpting Calaveras for Dia de los Muertos
 One of my colleagues, a fifth grade teacher, mentioned she was doing a couple of Dia de los Muertos lessons to tie into a novel the class was reading, and I jumped on this immediately since I was trying to build students' interest in 3D printing. I suggested students could design and print calaveras—the colorfully decorated skulls that Central American cultures make out of sugar for Dia de los Muertos. My colleague put together a slideshow for students about the cultural significance of the day and the skulls, and I got busy figuring out how we would do the design and printing.
 
