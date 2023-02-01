@@ -1,6 +1,7 @@
 ---
 type: posts
 title: "3D Sculpting for 5th Graders"
+published: true
 ---
 
 3D sculpting tools like the free [Sculptfab](https://labs.sketchfab.com/sculptfab/) or [SculptGL](https://stephaneginier.com/sculptgl/) make it quick and easy for students to see desirable results in their designs. Unlike other simple 3D design tools like Tinkercad, which uses parametric geometric primitives, sculpting tools offer intuitive controls that respond to direct clicks or finger taps, showing results immediately. It's for this reason that I tend to start students with Sculptfab when they're beginning to learn 3D design.

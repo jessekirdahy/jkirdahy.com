@@ -12,4 +12,4 @@ A quick look on Tinkercad and [Printables](http://printables.com) showed no exis
 
 Check out the design timelapse below or download the design files from [Printables](https://www.printables.com/model/386276-dewalt-trigger-clamp-replacement-trigger).
 
-{% include html5video.html path="/videos/2023/dewalt_trigger_timelapse.mov" width="100%" controls="false" autoplay="false" type="mp4" %}
+{% include html5video.html path="/videos/posts/2023/dewalt_trigger_timelapse.mov" width="100%" controls="false" autoplay="false" type="mp4" %}
